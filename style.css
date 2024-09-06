@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+
+h1{
+    margin-bottom: 0.7em;
+    margin-left: 0.5em;
+    margin-top: 0.5em;
+}
+
+.container{
+    margin-left: 1em;
+}
+
+
+#calculate{
+    padding: 0.5em 1em;
+    border-radius: 0.5em;
+    margin-left: 0.5em;
+}
+
+.output{
+    margin-top: 1.5em;
+    margin-left: 1em;
+}
